@@ -1,0 +1,4 @@
+Kiosk
+=====
+
+Kiosk for lobby
